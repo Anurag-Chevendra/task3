@@ -1,4 +1,4 @@
-# T2 (By Advait Pandaya)
+# T2
 ## About
 You have been given a PE (Portable Executable) file named `figure_this_out_pt2.exe`. This file appears to encode an input string. Your task is to reverse engineer the executable to determine what the original input string was, given the encoded output.
 
