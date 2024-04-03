@@ -11,9 +11,9 @@ Analyze the figure_this_out.exe file, disassemble the code, and explore the asse
 ## How to go about
 open cmd
 
-step 1: mkdir tasks
+step 1: mkdir task2
 
-step 2: cd tasks
+step 2: cd task2
 
 step 3: git clone [https://github.com/Anurag-Chevendra/task1.git](https://github.com/Anurag-Chevendra/task2.git)
 
