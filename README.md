@@ -15,9 +15,9 @@ what is the input to this exe such that the output is  `WPUbutof1xJj+U%nVB"L`
 ## How to go about
 open cmd
 
-step 1: mkdir task2
+step 1: mkdir task3
 
-step 2: cd task2
+step 2: cd task3
 
 step 3: git clone [https://github.com/Anurag-Chevendra/task3.git](https://github.com/Anurag-Chevendra/task3.git)
 
