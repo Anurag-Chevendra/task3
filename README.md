@@ -11,6 +11,8 @@ Analyze the `figure_this_out_pt2.exe` file, disassemble the code, and explore th
 ## How to go about
 open cmd
 
+##TL;DR
+what is the input to this exe such that the output is  `WPUbutof1xJj+U%nVB"L`
 step 1: mkdir task2
 
 step 2: cd task2
