@@ -14,6 +14,7 @@ what is the input to this exe such that the output is  `WPUbutof1xJj+U%nVB"L`
 
 ## How to go about
 open cmd
+
 step 1: mkdir task2
 
 step 2: cd task2
